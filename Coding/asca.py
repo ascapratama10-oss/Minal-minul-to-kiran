@@ -1,0 +1,7 @@
+a=input("angka1 =")
+b=input("angka2 =")
+c=float(a)+float(b)
+d=int(a)+int(b) 
+print (c)
+print (d)
+print (a+b)
